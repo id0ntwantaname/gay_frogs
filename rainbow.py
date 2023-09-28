@@ -1,4 +1,3 @@
-#first type pip install bext in terminal 
 import time , sys
 import bext
 import os
